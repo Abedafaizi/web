@@ -1,2 +1,0 @@
-# web
-my favorite project
